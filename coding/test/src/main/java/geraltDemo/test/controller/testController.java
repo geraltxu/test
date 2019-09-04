@@ -17,10 +17,15 @@ public class testController {
     public String getTest(){
         return "this is docker test";
     }
+
     @GetMapping("/user/{name}/{password}")
     public User getUser(@PathVariable("name") String name,@PathVariable("password") String password){
         System.out.println("enter");
         return userDao.getUser(name,password);
+    }
+    @GetMapping("/print")
+    public String getPrint(){
+        return "test print";
     }
 
 }
