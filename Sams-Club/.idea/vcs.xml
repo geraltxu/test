@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expeditions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/payment-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/payment-framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/payment-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/platform-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/platform-springboot-framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/platform-springboot-framework/compass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terranova" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.microsoft.azure:azure-storage:7.1.0-Preview">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/azure-storage/7.1.0-Preview/azure-storage-7.1.0-Preview.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/azure-storage/7.1.0-Preview/azure-storage-7.1.0-Preview-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/azure-storage/7.1.0-Preview/azure-storage-7.1.0-Preview-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

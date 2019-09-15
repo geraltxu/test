@@ -8,8 +8,9 @@ import lombok.Setter;
 public class User {
     private String username;
     private String password;
-//    public User(String username,String password){
-//        this.password=password;
-//        this.username=username;
-//    }
+    public User(){}
+    public User(String username,String password){
+        this.password=password;
+        this.username=username;
+    }
 }

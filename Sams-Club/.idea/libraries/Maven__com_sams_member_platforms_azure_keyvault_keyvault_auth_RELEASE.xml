@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: com.sams.member.platforms.azure.keyvault:keyvault-auth:RELEASE">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sams/member/platforms/azure/keyvault/keyvault-auth/RELEASE/keyvault-auth-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sams/member/platforms/azure/keyvault/keyvault-auth/RELEASE/keyvault-auth-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

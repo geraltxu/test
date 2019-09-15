@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="recurring-models" />
+        <module name="platform-core-azbus" />
+        <module name="payment-core-logging" />
+        <module name="platform-core-token" />
+        <module name="compass-dao" />
+        <module name="payment-core-telemetry" />
+        <module name="payment-base-models" />
+        <module name="payment-core-biz" />
+        <module name="token-generator-models" />
+        <module name="platform-core-biz" />
+        <module name="platform-core-server-common" />
+        <module name="platform-core-models" />
+        <module name="recurring-documents" />
+        <module name="platform-core-storage-account" />
+        <module name="payment-core-server-common" />
+        <module name="platform-telemetry" />
+        <module name="compass-api" />
+        <module name="platform-core-email" />
+        <module name="payment-oe-models" />
+        <module name="compass-topic-handler" />
+        <module name="platform-core-otp" />
+        <module name="card-account-update-models" />
+        <module name="platform-core-cosmosdb" />
+        <module name="compass-biz" />
+        <module name="platform-core-eventhub" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="card-account-update-models" target="1.8" />
+      <module name="compass" target="1.8" />
+      <module name="compass-api" target="1.8" />
+      <module name="compass-biz" target="1.8" />
+      <module name="compass-dao" target="1.8" />
+      <module name="compass-topic-handler" target="1.8" />
+      <module name="payment-base-models" target="1.8" />
+      <module name="payment-core" target="1.8" />
+      <module name="payment-core-biz" target="1.8" />
+      <module name="payment-core-logging" target="1.8" />
+      <module name="payment-core-server-common" target="1.8" />
+      <module name="payment-core-telemetry" target="1.8" />
+      <module name="payment-framework" target="1.8" />
+      <module name="payment-models" target="1.8" />
+      <module name="payment-oe-models" target="1.8" />
+      <module name="platform-core" target="1.8" />
+      <module name="platform-core-azbus" target="1.8" />
+      <module name="platform-core-biz" target="1.8" />
+      <module name="platform-core-cosmosdb" target="1.8" />
+      <module name="platform-core-email" target="1.8" />
+      <module name="platform-core-eventhub" target="1.8" />
+      <module name="platform-core-models" target="1.8" />
+      <module name="platform-core-otp" target="1.8" />
+      <module name="platform-core-server-common" target="1.8" />
+      <module name="platform-core-storage-account" target="1.8" />
+      <module name="platform-core-token" target="1.8" />
+      <module name="platform-springboot-framework" target="1.8" />
+      <module name="platform-telemetry" target="1.8" />
+      <module name="recurring-documents" target="1.8" />
+      <module name="recurring-models" target="1.8" />
+      <module name="token-generator-models" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sams-Club.iml" filepath="$PROJECT_DIR$/.idea/Sams-Club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-models/card-account-update-models/card-account-update-models.iml" filepath="$PROJECT_DIR$/payment-models/card-account-update-models/card-account-update-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compass/compass.iml" filepath="$PROJECT_DIR$/compass/compass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compass/compass-api/compass-api.iml" filepath="$PROJECT_DIR$/compass/compass-api/compass-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compass/compass-biz/compass-biz.iml" filepath="$PROJECT_DIR$/compass/compass-biz/compass-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compass/compass-dao/compass-dao.iml" filepath="$PROJECT_DIR$/compass/compass-dao/compass-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compass/compass-topic-handler/compass-topic-handler.iml" filepath="$PROJECT_DIR$/compass/compass-topic-handler/compass-topic-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-models/payment-base-models/payment-base-models.iml" filepath="$PROJECT_DIR$/payment-models/payment-base-models/payment-base-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-core/payment-core.iml" filepath="$PROJECT_DIR$/payment-core/payment-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-core/payment-core-biz/payment-core-biz.iml" filepath="$PROJECT_DIR$/payment-core/payment-core-biz/payment-core-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-core/payment-core-logging/payment-core-logging.iml" filepath="$PROJECT_DIR$/payment-core/payment-core-logging/payment-core-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-core/payment-core-server-common/payment-core-server-common.iml" filepath="$PROJECT_DIR$/payment-core/payment-core-server-common/payment-core-server-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-core/payment-core-telemetry/payment-core-telemetry.iml" filepath="$PROJECT_DIR$/payment-core/payment-core-telemetry/payment-core-telemetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-framework/payment-framework.iml" filepath="$PROJECT_DIR$/payment-framework/payment-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-models/payment-models.iml" filepath="$PROJECT_DIR$/payment-models/payment-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-models/payment-oe-models/payment-oe-models.iml" filepath="$PROJECT_DIR$/payment-models/payment-oe-models/payment-oe-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core.iml" filepath="$PROJECT_DIR$/platform-core/platform-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-azbus/platform-core-azbus.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-azbus/platform-core-azbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-biz/platform-core-biz.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-biz/platform-core-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-cosmosdb/platform-core-cosmosdb.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-cosmosdb/platform-core-cosmosdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-email/platform-core-email.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-email/platform-core-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-eventhub/platform-core-eventhub.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-eventhub/platform-core-eventhub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-models/platform-core-models.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-models/platform-core-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-otp/platform-core-otp.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-otp/platform-core-otp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-server-common/platform-core-server-common.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-server-common/platform-core-server-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-storage-account/platform-core-storage-account.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-storage-account/platform-core-storage-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-core-token/platform-core-token.iml" filepath="$PROJECT_DIR$/platform-core/platform-core-token/platform-core-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-springboot-framework/platform-springboot-framework.iml" filepath="$PROJECT_DIR$/platform-springboot-framework/platform-springboot-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-core/platform-telemetry/platform-telemetry.iml" filepath="$PROJECT_DIR$/platform-core/platform-telemetry/platform-telemetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-models/recurring-documents/recurring-documents.iml" filepath="$PROJECT_DIR$/payment-models/recurring-documents/recurring-documents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-models/recurring-models/recurring-models.iml" filepath="$PROJECT_DIR$/payment-models/recurring-models/recurring-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-models/token-generator-models/token-generator-models.iml" filepath="$PROJECT_DIR$/payment-models/token-generator-models/token-generator-models.iml" />
+    </modules>
+  </component>
+</project>
